@@ -121,3 +121,9 @@ Runs at: http://localhost:4000
 3. Run the Python service
 
 uvicorn app.main:app --reload --port 8080
+
+# Ai Tool implementation
+
+Generated and refined scaffolding (FastAPI routes, Pydantic models, retry logic).
+
+Used AI to brainstorm architecture, failure modes, edge cases.
